@@ -1,1 +1,1 @@
-# PAM-Reac-Redux
+# PAM-React-Redux
